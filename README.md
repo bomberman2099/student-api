@@ -6,8 +6,7 @@ for running the project
 ```
 python manage.py runserver
 ```
-and in your browser go to ``` localhost:8000/api/list```
-<br>
+and in your browser go to ``` localhost:8000/api/list  ```
 admin panel ``` localhost:8000/admin/```
 username: ```admin```
 pass: ```root```
