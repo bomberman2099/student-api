@@ -1,6 +1,6 @@
 after install the project you need some package of Python 
 ```
-pip install -r requirements. txt
+pip install -r requirements.txt
 ```
 for running the project
 ```
